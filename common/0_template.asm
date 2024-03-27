@@ -4,7 +4,6 @@
 
 _start:
 
-    #<assembler code here>
     addi x20, x20, 4
 
 
